@@ -1,0 +1,11 @@
+C:\Users\Armando\source\repos\de cola 002\de cola 002\bin\Debug\de cola 002.exe.config
+C:\Users\Armando\source\repos\de cola 002\de cola 002\bin\Debug\de cola 002.exe
+C:\Users\Armando\source\repos\de cola 002\de cola 002\bin\Debug\de cola 002.pdb
+C:\Users\Armando\source\repos\de cola 002\de cola 002\obj\Debug\de cola 002.csproj.AssemblyReference.cache
+C:\Users\Armando\source\repos\de cola 002\de cola 002\obj\Debug\de cola 002.csproj.SuggestedBindingRedirects.cache
+C:\Users\Armando\source\repos\de cola 002\de cola 002\obj\Debug\de_cola_002.Form1.resources
+C:\Users\Armando\source\repos\de cola 002\de cola 002\obj\Debug\de_cola_002.Properties.Resources.resources
+C:\Users\Armando\source\repos\de cola 002\de cola 002\obj\Debug\de cola 002.csproj.GenerateResource.cache
+C:\Users\Armando\source\repos\de cola 002\de cola 002\obj\Debug\de cola 002.csproj.CoreCompileInputs.cache
+C:\Users\Armando\source\repos\de cola 002\de cola 002\obj\Debug\de cola 002.exe
+C:\Users\Armando\source\repos\de cola 002\de cola 002\obj\Debug\de cola 002.pdb
